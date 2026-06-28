@@ -1,0 +1,25 @@
+{
+  "layer": 1,
+  "bindings": [
+    { "target": "KEY1",  "action": "copy" },
+    { "target": "KEY2",  "action": "paste" },
+    { "target": "KEY3",  "action": "cut" },
+    { "target": "KEY4",  "action": "undo" },
+    { "target": "KEY5",  "action": "redo" },
+    { "target": "KEY6",  "action": "save" },
+    { "target": "KEY7",  "action": "select_all" },
+    { "target": "KEY8",  "action": "find" },
+    { "target": "KEY9",  "action": "ctrl+shift+t" },
+    { "target": "KEY10", "action": "win+shift+s" },
+    { "target": "KEY11", "action": { "media": "play_pause" } },
+    { "target": "KEY12", "action": { "mouse": "middle_click" } },
+
+    { "target": "K1L", "action": { "media": "volume_down" } },
+    { "target": "K1P", "action": { "media": "mute" } },
+    { "target": "K1R", "action": { "media": "volume_up" } },
+
+    { "target": "K2L", "action": { "mouse": { "wheel": -1 } } },
+    { "target": "K2P", "action": { "mouse": "left_click" } },
+    { "target": "K2R", "action": { "mouse": { "wheel": 1 } } }
+  ]
+}
