@@ -1,5 +1,7 @@
 # Mini Keyboard — Python edition (CH57x 12-key + knobs)
 
+**→ [Full User Manual](MANUAL.md)**
+
 A clean, scriptable replacement for the original *MINI KeyBoard* Windows tool, for the
 macropad with USB id **VID 0x1189 / PID 0x8890** (CH57x chip). No on-screen keyboard:
 you assign each key/knob by name or by typing any keyboard combo.
