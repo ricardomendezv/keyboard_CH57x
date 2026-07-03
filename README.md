@@ -8,7 +8,10 @@ It supports **keyboard keys & combos, work shortcuts (copy/paste/cut/undo/redo/s
 multimedia keys, and mouse actions (clicks, wheel, move)**. Each key holds up to **5**
 key-presses (a hardware limit).
 
-## Install
+## Windows Download
+[MiniKeyboard.exe](https://github.com/ricardomendezv/keyboard_CH57x/tree/main/dist/MiniKeyboard.exe)
+
+## Install requirements
 
 ```powershell
 cd "C:\Users\M3X\Documents\GitHub\MINI KEYBOARD TOOL V1\python"
