@@ -9,7 +9,7 @@ multimedia keys, and mouse actions (clicks, wheel, move)**. Each key holds up to
 key-presses (a hardware limit).
 
 ## Windows Download
-[MiniKeyboard.exe](https://github.com/ricardomendezv/keyboard_CH57x/tree/main/dist/MiniKeyboard.exe)
+[MiniKeyboard.exe](https://github.com/ricardomendezv/keyboard_CH57x/tree/raw/main/dist/MiniKeyboard.exe)
 
 ## Install requirements
 
